@@ -1,0 +1,31 @@
+{
+    "name": "slide",
+    "id": "6",
+    "slideimg": [
+        {
+            "id": "61",
+            "title": "鬼刀",
+            "imgsrc": "http://attach.bbs.miui.com/forum/201808/06/092309h9jqj0wnh55nj03j.jpg"
+        },
+        {
+            "id": "62",
+            "title": "鬼刀",
+            "imgsrc": "http://attach.bbs.miui.com/forum/201808/06/092256pfabb5dfx4aic2jt.jpg"
+        },
+        {
+            "id": "63",
+            "title": "鬼刀",
+            "imgsrc": "http://photo.tuchong.com/3937450/f/327090616.jpg"
+        },
+        {
+            "id": "64",
+            "title": "鬼刀",
+            "imgsrc": "http://i0.hdslb.com/bfs/article/c0e445d6851927acab721c63b399a77249458e90.jpg"
+        },
+        {
+            "id": "65",
+            "title": "鬼刀",
+            "imgsrc": "http://static01.coloros.com/bbs/data/attachment/forum/201704/29/185753v8zeraaavrtz80m7.jpg"
+        }
+    ]
+}
